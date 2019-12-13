@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: django-nginx-reactjs-docker 
-        image: shgpregistry.azurecr.io/django-nginx-reactjs-docker:185
+        image: shgpregistry.azurecr.io/django-nginx-reactjs-docker:186
         ports: 
         - containerPort: 80 
 --- 
